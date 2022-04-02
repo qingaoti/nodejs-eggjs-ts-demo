@@ -1,8 +1,8 @@
-# 秦高梯- fullstack 交付作业
+# 秦高梯 - eggjs-ts 脚手架
 
 [gaoTi News](https://github.com/qingaoti) showcase using typescript && egg
 
-## 交付描述
+## 描述
 
 1.源代码  
 --   使用eggjs + typejs + mongo
